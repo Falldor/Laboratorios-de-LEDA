@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-07-22T16:14:15.646-0300</date>
+  <logger>FABIO ALMENDRO</logger>
+  <level>FINE</level>
+  <message>File 120110651-FABIO ALMENDRO.zip was received. It was sent by FABIO ALMENDRO from IP 26.164.117.72 at 22-07-2021 16*14*15</message>
+</record>

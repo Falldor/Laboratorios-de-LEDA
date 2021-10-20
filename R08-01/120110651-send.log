@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-10T05:21:52.668-0300</date>
+  <logger>FABIO ALMENDRO</logger>
+  <level>FINE</level>
+  <message>File 120110651-FABIO ALMENDRO.zip was received. It was sent by FABIO ALMENDRO from IP 26.164.117.72 at 10-09-2021 05*21*52</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-10T05:57:11.464-0300</date>
+  <logger>FABIO ALMENDRO</logger>
+  <level>FINE</level>
+  <message>File 120110651-FABIO ALMENDRO.zip was received. It was sent by FABIO ALMENDRO from IP 26.164.117.72 at 10-09-2021 05*57*11</message>
+</record>
